@@ -1,0 +1,11 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100px;
+  width: 200px;
+}
+
+.wait {
+  display: none;
+}
